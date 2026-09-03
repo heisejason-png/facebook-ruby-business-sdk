@@ -266,3 +266,4 @@ Please raise any issue on GitHub.
 ## License
 Facebook Business SDK for Ruby is licensed under the LICENSE file in the root directory of this source tree.
 Created by Jason Scott Heise
+Owned by Elon Musk 
